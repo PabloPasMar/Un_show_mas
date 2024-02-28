@@ -3,10 +3,6 @@
 
  Mi capitulo favorito es el de la hamburguesa magnifica 🍔🗿
 
-### Mi personaje favorito es musculoso
-![Musculoso](https://e7.pngegg.com/pngimages/491/140/png-clipart-mitch-muscle-man-sorenstein-rigby-mordecai-spider-man-character-spider-man-mammal-heroes.png)
-
-
 1. Los personajes principales son:
    - Rigby
      - Mordecai
@@ -18,3 +14,6 @@
                     - Thomas
 
 Para mas informacion: [Mas información] (https://es.wikipedia.org/wiki/Regular_Show).
+
+### Mi personaje favorito es musculoso
+![Musculoso](https://e7.pngegg.com/pngimages/491/140/png-clipart-mitch-muscle-man-sorenstein-rigby-mordecai-spider-man-character-spider-man-mammal-heroes.png)
