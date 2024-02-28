@@ -4,9 +4,7 @@
  Mi capitulo favorito es el de la hamburguesa magnifica 🍔🗿
 
 ### Mi personaje favorito es musculoso
-<picture> 
-<source media="(prefers-color-scheme: dark)" srcset="https://static.wikia.nocookie.net/hdabravestwarriorsusm/images/3/39/Musculoso_-_Normal_-_The_Pilot.png/revision/latest?cb=20131216125806&path-prefix=es">
-</picture>
+![Musculoso](https://e7.pngegg.com/pngimages/491/140/png-clipart-mitch-muscle-man-sorenstein-rigby-mordecai-spider-man-character-spider-man-mammal-heroes.png)
 
 
 1. Los personajes principales son:
